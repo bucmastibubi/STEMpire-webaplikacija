@@ -1,0 +1,120 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+    background: #f5f7fb;
+
+    color: #222;
+
+}
+
+
+header {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 20px 50px;
+
+    background: white;
+
+}
+
+
+.logo {
+
+    font-size: 25px;
+
+    font-weight: bold;
+
+}
+
+
+nav a {
+
+    margin-left: 20px;
+
+    text-decoration: none;
+    
+    color: #333;
+
+}
+
+
+.hero {
+
+    text-align: center;
+
+    padding: 80px 20px;
+
+    background: #202b3c;
+
+    color: white;
+
+}
+
+
+.hero h1 {
+
+    font-size: 50px;
+
+}
+
+
+button {
+
+    padding: 15px 30px;
+
+    border-radius: 10px;
+
+    border: none;
+
+    cursor: pointer;
+
+}
+
+
+section {
+
+    padding: 40px;
+
+}
+
+
+.houses {
+
+    display: flex;
+
+    gap: 20px;
+
+}
+
+
+.card {
+
+    background: white;
+
+    padding: 25px;
+
+    border-radius: 15px;
+
+    flex: 1;
+
+}
+
+
+.task {
+
+    background: white;
+
+    padding: 20px;
+
+    margin-top: 20px;
+
+    border-radius: 15px;
+}
